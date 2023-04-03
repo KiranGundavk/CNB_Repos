@@ -1,2 +1,2 @@
 hi king
-welcome
+Welcome to the Git conflict
